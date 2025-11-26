@@ -1,0 +1,7 @@
+pandas
+dune-client
+scikit-learn
+python-dotenv
+matplotlib
+seaborn
+requests
